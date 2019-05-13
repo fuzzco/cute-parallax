@@ -1,6 +1,6 @@
 {
     "name": "@fuzzco/cute-parallax",
-    "version": "1.0.5",
+    "version": "1.1.1",
     "description": "A cute lil' parallax library.",
     "main": "dist/index.js",
     "scripts": {
